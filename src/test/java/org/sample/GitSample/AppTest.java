@@ -1,7 +1,7 @@
 package org.sample.GitSample;
 
 
-public class AppTest 
+public class AppTest
 {
 
 	
